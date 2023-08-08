@@ -52,7 +52,7 @@ st.write( '''
 Don't forget that you can use Python triple quotes to make a string
 last over several lines, so that you can write as much as you want.
 
-![A hilarious photo](https://en.wikipedia.org/wiki/Cat#/media/File:Cat_August_2010-4.jpg)
+![A hilarious photo](BiasVariance.PNG)
 
 ''' )
 
